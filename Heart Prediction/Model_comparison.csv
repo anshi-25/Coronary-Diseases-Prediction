@@ -1,0 +1,6 @@
+,Model,Train_Accuracy,Test_Accuracy,Train_Recall,Test_Recall,Train_Precision,Test_Precision
+0,DT_model_knn_o,1.0,0.77,1.0,0.31,1.0,0.28
+1,KNN_model_knn_o,0.86,0.84,0.21,0.11,0.64,0.41
+2,GB_model_knn_o,0.88,0.85,0.22,0.08,0.96,0.47
+3,ADB_model_knn_o,0.86,0.84,0.14,0.1,0.72,0.42
+4,RF_model_knn_o,1.0,0.85,1.0,0.06,1.0,0.63
